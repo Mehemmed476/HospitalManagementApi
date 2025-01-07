@@ -1,0 +1,17 @@
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.BL.deps.json
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.BL.dll
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.BL.pdb
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.Core.dll
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.DAL.dll
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.DAL.pdb
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\bin\Debug\net8.0\HospitalManagementApp.Core.pdb
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.csproj.AssemblyReference.cache
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.AssemblyInfoInputs.cache
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.AssemblyInfo.cs
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\Hospital.014DB897.Up2Date
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.dll
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\refint\HospitalManagementApp.BL.dll
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\HospitalManagementApp.BL.pdb
+C:\Users\Classtime\source\repos\HospitalManagementApp\HospitalManagementApp.BL\obj\Debug\net8.0\ref\HospitalManagementApp.BL.dll
